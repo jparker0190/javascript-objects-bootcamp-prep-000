@@ -1,2 +1,3 @@
 var meals = {};
-var meals = new Object{};
+var meals = new Object();
+
